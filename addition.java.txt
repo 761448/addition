@@ -1,0 +1,6 @@
+public static void main(String args[])
+{
+int one;
+int two;
+int add=one+two;
+}
